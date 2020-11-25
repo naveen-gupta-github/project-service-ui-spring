@@ -1,4 +1,4 @@
-package com.naveen.projectserviceui;
+package com.naveen.projectserviceui.models;
 
 import org.springframework.stereotype.Component;
 
